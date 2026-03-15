@@ -1,8 +1,18 @@
+# streamlit
+# numpy
+# opencv-python
+# Pillow
+# tensorflow
+# python-dotenv
+# langchain-google-genai
+# langchain-core
+
+
 streamlit
 numpy
-opencv-python
 Pillow
-tensorflow
+opencv-python-headless==4.8.1.78
+tensorflow==2.15.1
 python-dotenv
 langchain-google-genai
 langchain-core
