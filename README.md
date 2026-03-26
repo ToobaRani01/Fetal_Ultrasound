@@ -93,9 +93,9 @@ streamlit run app.py
 ### 📱 Mobile / Android Integration
     
 # ⚠️ Important Note for Mobile Developers
-    If you want to integrate this model into an Android or any mobile application, you cannot use the .h5 file directly.
-    The .h5 format is a Keras/TensorFlow format designed for server-side or desktop use.
-    Mobile apps require the TensorFlow Lite (.tflite) format.
+If you want to integrate this model into an Android or any mobile application, you cannot use the .h5 file directly.
+The .h5 format is a Keras/TensorFlow format designed for server-side or desktop use.
+Mobile apps require the TensorFlow Lite (.tflite) format.
     
 ### ✅ Use the Pre-converted TFLite Model
  This repository already includes the converted model:
@@ -104,7 +104,8 @@ streamlit run app.py
     fetal_ultrasound.tflite
 ```
 
-    This file was generated using the convert_intotflite.ipynb notebook. You can use it directly in your Android app without any additional conversion steps.
+This file was generated using the convert_intotflite.ipynb notebook. You can use it directly in your Android app
+without any additional conversion steps.
    
 
 
