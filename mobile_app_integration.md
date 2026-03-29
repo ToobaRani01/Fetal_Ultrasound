@@ -174,13 +174,3 @@ Display Results
 - Bounding box detection  
 
 ---
-
-## 🎯 Final Note (IMPORTANT FOR REPORT)
-✔ Always size = 224×224  
- ensure:
-- Input- Normalization = preprocessing as /255.0  
-- Same training  
-
-👉 Critical to maintain model accuracy (97.15%)
-
----
